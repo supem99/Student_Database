@@ -82,7 +82,7 @@ Problem Specification
 
 ## Solution Outline
 
- <img align="right" src="https://cdn0.iconfinder.com/data/icons/new-seo-bussiness-set3/1024/Business_Solution-01-512.png" width="200"> 
+<img align="right" src="https://cdn0.iconfinder.com/data/icons/new-seo-bussiness-set3/1024/Business_Solution-01-512.png" width="200"> 
 
 After referring the institute log books and collecting information from the
 principal, We recognize the problems of the institute registration and daily
