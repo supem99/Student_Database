@@ -34,7 +34,7 @@
 
 ## INTRODUCTION
 
- <img src="https://icon-library.net/images/introduction-icon-png/introduction-icon-png-23.jpg" width="400" height="250" >
+ <p align="center"><img src="https://icon-library.net/images/introduction-icon-png/introduction-icon-png-23.jpg" width="400" height="250" ></p>
 
 Description Of The Project
 
