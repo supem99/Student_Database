@@ -18,6 +18,8 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/theme.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/feather.min.css') }}" rel="stylesheet">
 </head>
 <body>
     <div id="app">
@@ -76,5 +78,8 @@
             @yield('content')
         </main>
     </div>
+    <script href="{{ asset('js/app.js') }}" type="text/javascript"></script>
+    <script href="{{ asset('js/theme.min.js') }}" type="text/javascript"></script>
+    <script href="{{ asset('js/Chart.min.js') }}" type="text/javascript"></script>
 </body>
 </html>
