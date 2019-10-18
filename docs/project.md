@@ -62,7 +62,7 @@ daily process between the institute and the students.
 
 ## Problem Specification
 
-<img src="https://cdn3.iconfinder.com/data/icons/professional-seo-1/512/Creative_Solution-512.png " width="200"/>
+<img src="https://cdn3.iconfinder.com/data/icons/professional-seo-1/512/Creative_Solution-512.png " width="200">
 
 Since year which the institute started it didn’t have any software or a system
 to record their day to day procedure about registrations, attendance,
@@ -80,9 +80,9 @@ very big problem to this procedure.
 * If these books will get lost or misplace, all the data will be get lost.
 Problem Specification
 
-##Solution Outline
+## Solution Outline
 
- <img align="right" src="https://cdn0.iconfinder.com/data/icons/new-seo-bussiness-set3/1024/Business_Solution-01-512.png " alt="" width="200"/> 
+ <img align="right" src="https://cdn0.iconfinder.com/data/icons/new-seo-bussiness-set3/1024/Business_Solution-01-512.png" width="200"> 
 
 After referring the institute log books and collecting information from the
 principal, We recognize the problems of the institute registration and daily
