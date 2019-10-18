@@ -4,4 +4,3 @@ This system is aim to manage the students information in the institute VTA Kalut
 - Student basic information.
 - Management information.
 - Course information
-- 
