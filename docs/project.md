@@ -62,7 +62,7 @@ daily process between the institute and the students.
 
 ## Problem Specification
 
-<p align="center"><img src="https://banner2.cleanpng.com/20180707/bht/kisspng-problem-solving-business-algorithm-symbol-customer-5b40425e774c57.1212724315309379504887.jpg" width="200"></p>
+<p align="center"><img src="https://banner2.cleanpng.com/20180707/bht/kisspng-problem-solving-business-algorithm-symbol-customer-5b40425e774c57.1212724315309379504887.jpg" width="200" height="250"></p>
 
 Since year which the institute started it didn’t have any software or a system
 to record their day to day procedure about registrations, attendance,
